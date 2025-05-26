@@ -17,3 +17,5 @@ var twoSum = function(nums, target) {
     }
     
 };
+
+// easy level
