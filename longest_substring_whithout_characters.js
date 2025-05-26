@@ -22,3 +22,5 @@ var lengthOfLongestSubstring = function(s) {
     }
     return res;
 };
+
+// medium level
